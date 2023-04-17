@@ -20,3 +20,4 @@ Save the Clean data to the file
 
 # CODE
 # OUPUT
+![Picture1](https://user-images.githubusercontent.com/126390051/232376328-ed26d29f-22b0-447a-9a5f-f85038025ccb.png)
